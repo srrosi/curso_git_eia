@@ -5,4 +5,4 @@ print(a*b)
 
 #Mais uma lista de texto
 print("Nova linha no arquivo")
-#Conflito começa aqui
+#Conflito começa aqui. Mais texto aqui.
