@@ -7,3 +7,4 @@ print(a*b)
 print("Nova linha no arquivo")
 #Conflito começa aqui. Mais texto aqui.
 #Linha na brancha Novabranch
+Projeto versão 4. Branch novaversao
