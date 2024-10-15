@@ -8,3 +8,5 @@ print("Nova linha no arquivo")
 #Conflito começa aqui. Mais texto aqui.
 #Linha na brancha Novabranch
 Projeto versão 4. Branch novaversao
+
+#Nova linha alterada diretamente no Github
